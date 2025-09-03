@@ -8,7 +8,7 @@ def dog():
 
 def main():
   if sys.argv[1]=='dog':
-		cat()
+		dog()
   else:
 		default()
 
